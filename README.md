@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Humberto Benavides
 - 👨🏼‍💻 I'm a huge tech enthusiast
-- 👀 I’m interested in Data Analysis and Data Visualization
+- 👀 I’m interested in Data Analysis, Data Minning and Data Visualization
 - 👨🏼‍🎓 I recently just graduated with a Bachelors degree in Management Information Systems and Data Analytics
 - 🌱 I’m currently trying to master Python
 - 💞️ I’m looking to collaborate on any python programming projects
